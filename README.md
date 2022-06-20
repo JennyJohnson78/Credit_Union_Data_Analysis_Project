@@ -1,4 +1,7 @@
 # Credit Union Data Analysis Project
+
+![image](https://user-images.githubusercontent.com/67409852/174540630-4aa05548-6a19-40ec-bea1-890c2c8e1583.png)
+
 In depth analyses of complex datasets is an integral part of business analytics within the financial field. In this analysis, NCUA's 5300 Call Report Quarterly Data, hosted on the National Credit Union Administration's Website, will be analyzed to answer the following questions:
 
 * How many credit unions were founded in the 1930's?
