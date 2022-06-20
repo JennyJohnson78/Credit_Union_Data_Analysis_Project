@@ -1,5 +1,5 @@
 # Credit Union Data Analysis Project
-Utilizing credit union data on the National Credit Union Administration's Website
+Analyzing NCUA's 5300 Call Report Quarterly Data on the National Credit Union Administration's Website
 
 ## Summary
 ### Interesting Data
