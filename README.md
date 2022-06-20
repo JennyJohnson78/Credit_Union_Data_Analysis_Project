@@ -1,5 +1,5 @@
 # Credit Union Data Analysis Project
-In depth analyses of complex datasets is an integral part of business analytics within the financial field. In this analysis, NCUA's 5300 Call Report Quarterly Data, hosted on the National Credit Union Administration's Website, will ba analyzed to answer the following questions:
+In depth analyses of complex datasets is an integral part of business analytics within the financial field. In this analysis, NCUA's 5300 Call Report Quarterly Data, hosted on the National Credit Union Administration's Website, will be analyzed to answer the following questions:
 
 * How many credit unions were founded in the 1930's?
 * How many ATM locations do those credit unions have in service as of March 2022?
