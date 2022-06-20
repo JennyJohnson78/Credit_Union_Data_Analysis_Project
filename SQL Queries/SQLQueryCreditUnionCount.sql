@@ -1,0 +1,4 @@
+-- Count of Credit Unions organized between 1970-1979
+SELECT COUNT(CU_NAME)
+FROM FOICU
+WHERE YEAR_OPENED BETWEEN 1970 AND 1979;
