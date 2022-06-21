@@ -4,21 +4,45 @@
 
 In depth analyses of complex datasets is an integral part of business analytics within the financial field. In this analysis, NCUA's 5300 Call Report Quarterly Data, hosted on the National Credit Union Administration's Website, will be analyzed to answer the following questions:
 
-* How many credit unions were founded in the 1930's?
-* How many ATM locations do those credit unions have in service as of March 2022?
-* How many ATM locations does Michigan State University Federal Credit Union have as of March 2022?
-* How many ATM locations does Michigan State University Federal Credit Union have in comparison to credit unions founded around the same time and is this a KPI?
-* What would be the risk or benefits of opening new ATM locations?
-* Where in Michigan are there underserved populations that could benefit from Michigan State University Federal Credit Union's presence?
-* How many grants did Michigan State University receive in the past year? How much did they total?
-* What credit union received the most grants? How much did they total?
-* Who were the top 5 credit union grant recipients so far in 2022?
+* Michigan State University was organized in 1979. How many credit unions in Michigan were organized in the 1970's?
+* How many ATM locations did those credit unions add in the first quarter of 2022?
+* How many ATM locations did Michigan State University Federal Credit Union add in the first quarter of 2022?
+* How many ATM locations did Michigan State University Federal Credit Union add in 2022 in comparison to credit unions founded around the same time?
+* Where did MSUFCU open new ATMs? What would be the risk or benefits of opening new ATM locations in different places?
+* How many grants has Michigan State University been awarded in the first quarter of 2022? How much did they total?
+* What credit union received the largest grant? How much did it total?
+* Who were the top 5 credit union grant recipients so far in 2022 by grant amount?
+* Who were the top 5 credit union grant recipients so far in 2022 by number of grants?
 * How are some ways Michigan State University Federal Credit Union could increase the amount of grants they receive?
 
+## Visualizations
+
+![image](https://user-images.githubusercontent.com/67409852/174893527-a83d6e50-92a4-4d7c-8f7d-032355e7cdfc.png)
+
+![image](https://user-images.githubusercontent.com/67409852/174896988-492962a9-b24e-4810-a557-c2912e970759.png)
+
+![image](https://user-images.githubusercontent.com/67409852/174906109-55de8fe3-a12a-4e1c-8c2c-0aeaacbd075f.png)
+
+![image](https://user-images.githubusercontent.com/67409852/174912900-dba9d685-e5bf-4204-b6a9-1f1fe5548c27.png)
+
 ## Summary
+Michigan State University was organized into the NCUA in 1979. 456 credit unions were organized between 1970-1979. 11 of these are in Michigan. 7 of these credit unions combined opened 40 ATMs in the first quarter of 2022. Of these, 21 were opened by Michigan State University Federal Credit Union per this dataset. As of the first quarter in 2022, 1,066 new ATMs were installed in Michigan. MSUFCU opened 5 new ATMs in East Lansing, 4 in Lansing, 2 in Okemos and Traverse City, and 1 in Auburn Hills, Berkley, Charlotte, Grand Rapids, Haslett, HoltMason, and Ortonville.
+
+Michigan State University received two grants in the first quarter of 2022. They totaled $1,150.00. In the first quarter of 2022, 1,557 Credit Unions received grants. The Credit Union who received the largest grant is DADE County Federal Credit Union, totaling $25,000,000. The top five grant recipients for the first quarter in 2022 were DADE County Federal Credit Union, Kauai Federal Credit Union, Latino Community Credit Union, United Teletech Financial Credit Union, and ANECA Federal Credit Union. The top five Credit Unions by number of grants received were South Side Community Credit Union, Opportunities Credit Union, Holy Rosary Credit Union, Community Promse Federal Credit Union (in Kalamazoo, MI), and U.H.S. Employees Federal Credit Union.
+
 ### Interesting Data
+The oldest Credit Union to be organized in Michigan is Michigan First Credit Union in 1926. The newest Credit Union to be organized in Michigan is Community Pormise Credit Union in 2012.
+
+In the first quarter of 2022 alone, $23,151,582 in grant money was awarded to Credit Unions in the United States was NOT collected. Both grants MSUFCU were awarded were Program Grants.
+
 ### Risk
+The risk of opening up more ATMs is that they need to be serviced and maintained, increasing the amount of ground ATM technicians would have to cover to service each ATM. However, a benefit is that it could increase membership to Michigan State University Federal Credit Union and thus grow the credit union in terms of assets and people served.
+
+Writing applications for grants is an art in and of itself and takes a skilled professional to write successful grants. Hiring additional grant applicant writers would cost the credit union money in terms of salary and benefit, but could bring in potentionally millions more in grant money.
+
 ### Key Performace Indicators
+For Credit Unions organized around the same time as MSUFCU, MSUFCU opened 21 of 40 new ATMs in the first quarter of 2022. This means MSUFCU opened 52.5% of all new ATMs during this time. The next highest amount opened by a Credit Union in this category was Parda Federal Credit Union, with 6 ATMs opened. This means for every ATM Parda Federal Credit Union opened in the first quarter of 2022, MSUFCU opened 3.5 ATM locations.
 
-## Recommendations
+The average program grant amount received in the first quarter of 2022 was $100,368. Michigan State University Federal Credit Union is substantially under this. However, MSUFCU has over $6.6 billion dollars in assets as of 2020, so the financial wellbeing of the institution is not as dependent on grants as smaller credit unions are. 
 
+### Recommendations
