@@ -1,5 +1,0 @@
--- Credit Unions in Michigan organized in 1970's
-SELECT COUNT(CU_NAME)
-FROM FOICU
-WHERE STATE = 'MI'
-AND YEAR_OPENED BETWEEN 1970 AND 1979;
