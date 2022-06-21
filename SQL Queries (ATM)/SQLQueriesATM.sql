@@ -31,3 +31,12 @@ WHERE CU_NAME = 'Michigan State University';
 SELECT *
 FROM ATMLocations
 WHERE PhysicalAddressStateCode = 'MI';
+-- MSU ATMs by City and County
+SELECT CU_NAME, PhysicalAddressCity, PhysicalAddressCountyName
+FROM ATMLocations
+WHERE CU_NAME = 'Michigan State University';
+-- MSU ATMs by City and County
+SELECT CU_NAME, PhysicalAddressCity, PhysicalAddressCountyName
+FROM ATMLocations
+WHERE CU_NAME = 'Michigan State University' AND PhysicalAddressCity = '[City Here]';
+
