@@ -19,7 +19,7 @@ INNER JOIN
 ATMLocations AS a
 ON f.CU_NAME = a.CU_NAME;
 -- MI CUs ATMs by Decade
-SELECT COUNT(SiteFunctionName)
+SELECT COUNT(SiteFunctionName), CU_NAME
 FROM ATMByYear
 WHERE STATE = 'MI'
 AND YEAR_OPENED BETWEEN 1970 AND 1979;
@@ -27,3 +27,7 @@ AND YEAR_OPENED BETWEEN 1970 AND 1979;
 SELECT COUNT(SiteFunctionName)
 FROM ATMByYear
 WHERE CU_NAME = 'Michigan State University';
+-- All ATMs in Michigan
+SELECT *
+FROM ATMLocations
+WHERE PhysicalAddressStateCode = 'MI';

@@ -18,3 +18,8 @@ WHERE GrantType = 'Program Grant';
 SELECT SUM(Amount)
 FROM Grants 
 WHERE GrantType = 'Not Collected';
+-- Top 5 CUs who received the most grants
+SELECT TOP 5 CU_NAME, SUM(Amount) AS 'GrantAmount'
+FROM Grants
+GROUP BY CU_NAME
+ORDER BY COUNT(*) DESC;
